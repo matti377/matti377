@@ -6,9 +6,6 @@
         Currently learning bash and Linux server management<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/matti">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
 </p>
 
 ### Languages
@@ -27,7 +24,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/matti377)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/matti377)
-[![MacOS](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/matti377)
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=FreeBSD)](https://github.com/matti377)
 
 <details>
 <p align="center">
